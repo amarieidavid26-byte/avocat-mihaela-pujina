@@ -1,0 +1,28 @@
+{
+  "name": "avocat-pujina",
+  "version": "1.0.0",
+  "description": "Cabinet Avocat Pujină Mihaela - Law Firm Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["avocat", "law-firm", "romanian-lawyer"],
+  "author": "Cabinet Avocat Pujină Mihaela",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.9.1",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "autoprefixer": "^10.4.21",
+    "lucide-react": "^0.546.0",
+    "next": "^16.0.0",
+    "postcss": "^8.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.9.3"
+  }
+}
