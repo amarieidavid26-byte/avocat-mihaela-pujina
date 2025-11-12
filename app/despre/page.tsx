@@ -50,7 +50,7 @@ export default function AboutPage() {
               <div className="aspect-[3/4] bg-white rounded-2xl border-4 border-cream overflow-hidden relative shadow-xl">
                 <Image
                   src="/images/pujinapoza.jpg"
-                  alt="Avocat Pujină Mihaela - Cabinet Avocatură Fălticeni"
+                  alt="Avocat Mihaela Pujină - Cabinet de avocatură Fălticeni Suceava"
                   fill
                   className="object-cover"
                   priority
