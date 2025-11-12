@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Scale, Phone, Mail, MapPin, Clock, Facebook, Linkedin } from 'lucide-react'
+import { Scale, Phone, Mail, MapPin, Clock, Facebook } from 'lucide-react'
 
 export default function Footer() {
   return (
@@ -20,11 +20,13 @@ export default function Footer() {
               Laureat Firma de Aur. 55+ review-uri de 5 stele.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="text-sage hover:text-sage-dark transition-colors">
+              <a
+                href="https://www.facebook.com/profile.php?id=61550807963214"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sage hover:text-sage-dark transition-colors"
+              >
                 <Facebook size={24} />
-              </a>
-              <a href="#" className="text-sage hover:text-sage-dark transition-colors">
-                <Linkedin size={24} />
               </a>
             </div>
           </div>

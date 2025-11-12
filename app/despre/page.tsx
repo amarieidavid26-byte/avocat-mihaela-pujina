@@ -4,8 +4,8 @@ import CTAButton from '@/components/CTAButton'
 import Image from 'next/image'
 
 export const metadata: Metadata = {
-  title: 'Despre Cabinet | Avocat Pujină Mihaela | Fălticeni, Suceava',
-  description: '15+ ani experiență în avocatură. Laureat Firma de Aur. Cabinet avocatură specializat în drept familiei, penal, civil și comercial în Fălticeni, Suceava.',
+  title: 'Despre Cabinet | Avocat Mihaela Pujină',
+  description: 'Avocat cu 15+ ani experiență în Fălticeni și Suceava. Laureat Firma de Aur. Specializare în drept familiei, penal și civil. Consultație gratuită: 0753 434 005.',
   keywords: 'avocat Mihaela Pujină, cabinet avocatură Fălticeni, avocat experienţă Suceava',
 }
 

@@ -3,8 +3,8 @@ import ContactForm from '@/components/ContactForm'
 import { MapPin, Phone, Mail, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact | Cabinet Avocat Pujină Mihaela | Fălticeni, Suceava',
-  description: 'Contactați Cabinet Avocat Pujină Mihaela. Str. Maior Ioan 3, Fălticeni 725200. Telefon: 0753 434 005. Consultație gratuită.',
+  title: 'Contact | Avocat Mihaela Pujină Fălticeni',
+  description: 'Contactați Cabinet Avocat Pujină Mihaela în Fălticeni, Str. Maior Ioan 3. Program: L-S 07:00-17:00. Consultație gratuită. Tel: 0753 434 005.',
   keywords: 'contact avocat Fălticeni, cabinet avocatură Suceava, programare consultație juridică',
 }
 
@@ -109,14 +109,14 @@ export default function ContactPage() {
             {/* Google Maps */}
             <div className="bg-white rounded-xl shadow-lg overflow-hidden border-2 border-sage/20">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.1234567890!2d26.3!3d47.45!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDfCsDI3JzAwLjAiTiAyNsKwMTgnMDAuMCJF!5e0!3m2!1sro!2sro!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2697.2507755685006!2d26.292275276802204!3d47.46554239770702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47351bb64a1ad4fd%3A0xb537ecc39c2f92b!2sStrada%20Maior%20Ioan%203%2C%20F%C4%83lticeni%20725200!5e0!3m2!1sro!2sro!4v1762949334735!5m2!1sro!2sro"
                 width="100%"
-                height="300"
+                height="450"
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                className="w-full"
+                className="w-full rounded-lg"
               />
               <div className="p-4 bg-offwhite">
                 <a

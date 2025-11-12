@@ -77,8 +77,7 @@ const structuredData = {
     reviewCount: '55'
   },
   sameAs: [
-    'https://www.facebook.com/avocat-pujina',
-    'https://www.linkedin.com/in/avocat-pujina'
+    'https://www.facebook.com/profile.php?id=61550807963214'
   ]
 }
 

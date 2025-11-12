@@ -3,8 +3,8 @@ import PracticeAreasDetail from '@/components/PracticeAreasDetail'
 import ContactSidebar from '@/components/ContactSidebar'
 
 export const metadata: Metadata = {
-  title: 'Domenii de Practică | Cabinet Avocat Pujină Mihaela',
-  description: 'Servicii juridice complete: Dreptul familiei, penal, civil, comercial, muncii și accidente. Cabinet avocatură Fălticeni, Suceava.',
+  title: 'Domenii de Practică | Avocat Mihaela Pujină',
+  description: 'Servicii juridice complete în Fălticeni și Suceava: divorț, custodie, drept penal, civil, comercial, dreptul muncii, accidente rutiere. Consultație gratuită.',
   keywords: 'avocat divorț Fălticeni, avocat penal Suceava, drept familiei, avocat moșteniri, avocat muncă',
 }
 
