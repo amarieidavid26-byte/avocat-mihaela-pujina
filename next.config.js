@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true, // ✅ Required for static export
   },
-  trailingSlash: true, // ✅ Better for SEO
+  // trailingSlash removed to fix Google Search Console indexing issues
 }
 
 module.exports = nextConfig
